@@ -1,4 +1,4 @@
-# Photopigment Bleaching Worksheet
+# Photopigment Bleaching worksheet
 
 A quantitative photometric and radiometric framework for simulating retinal photopigment bleaching under brief flash stimulation.
 
